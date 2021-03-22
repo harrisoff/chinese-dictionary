@@ -6,13 +6,15 @@
 
 - `full.json` 为完整数据，包含字段：
    - `word`，字符
-   - `pinyin`，拼音
+   - `pinyin`，带音调的拼音
+   - `pinyin2`，无音调的拼音
    - `strokes`，笔画数
    - `radicals`，偏旁
    - `url`，该字所在页面
-   - `detail_html`，原页面详情部分 html
+   - `html`，原页面详情部分 html
    - `detail`，详情部分文本
-- `slim.json` 删除了 `detail` 和 `detail_html` 字段
+- `slim.json` 删除了 `detail` 和 `html` 字段
 - `words.json` 只保留汉字
+- `pinyin-alias.json` 带音调和不带音调的单韵母的对照表
 
 个人使用，禁止商用。
