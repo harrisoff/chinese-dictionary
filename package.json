@@ -1,0 +1,24 @@
+{
+  "name": "chinese-dictionary",
+  "version": "1.0.0",
+  "description": "汉语字典",
+  "scripts": {
+    "split": "node ./scripts/split.js",
+    "slim": "node ./scripts/slim.js",
+    "words": "node ./scripts/words.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harrisoff/chinese-dictionary.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisoff/chinese-dictionary/issues"
+  },
+  "homepage": "https://github.com/harrisoff/chinese-dictionary#readme",
+  "devDependencies": {
+    "json-beautify": "^1.1.1"
+  }
+}
