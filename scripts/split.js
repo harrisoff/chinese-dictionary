@@ -14,14 +14,14 @@ async function main() {
   try {
     const content = await fs.readFileSync(path.resolve(__dirname, '../full.json'))
     const jsonContent = JSON.parse(content)
-    const step = 1000
+    const step = 500
     const parts = split(jsonContent, step)
     for (let i = 0; i < parts.length; i += 1) {
       const part = parts[i]
       const startCount = i * step
       const endCount = startCount + step
       const fileName = `full.${startCount}-${endCount}.json`
-      await fs.writeFileSync(path.resolve(__dirname, `../${fileName}`), beautify(part, null, 2, 100))
+      await fs.writeFileSync(path.resolve(__dirname, `../partial/${fileName}`), beautify(part, null, 2, 100))
     }
   } catch (err) {
     console.log(err)

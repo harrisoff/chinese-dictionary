@@ -13,7 +13,7 @@
    - `url`，该字所在页面
    - `html`，原页面详情部分 html
    - `detail`，详情部分文本
-- `full.{start}-{end}.json` 为分片后的数据，方便 git diff
+- `partial/full.{start}-{end}.json` 为分片后的数据，方便 git diff
 - `slim.json` 删除了 `detail`、`url` 和 `html` 字段
 - `words.json` 只保留汉字
 - `pinyin-alias.json` 带音调和不带音调的单韵母的对照表
