@@ -638,5 +638,15 @@
     "html": "<td id=\"7895988\" class=\"font_18\">\r\n<b><span class=\"table4\"><font color=\"#800000\">基本解释</font></span></b>：\r\n<hr class=\"hr1\">\r\n这不是字！是特殊字符！\r\n<br><br>\r\n\r\n<b><span class=\"table4\"><font color=\"#800000\">详细解释</font></span></b>：\r\n<hr class=\"hr1\">\r\n \r\n<br>\r\n<br>\r\n<b><span class=\"table4\"><font color=\"#800000\">相关词语</font></span></b>：\r\n<hr class=\"hr1\">\r\n<table border=\"0\" width=\"100%\" cellspacing=\"1\" id=\"11646\">\r\n\r\n\t\t\r\n\t</table>\r\n\r\n</td>",
     "pinyin2": [ "" ],
     "radical": " "
+  },
+  {
+    "url": "http://xh.5156edu.com/html3/25621.html",
+    "word": "＆",
+    "pinyin": [],
+    "detail": "基本解释：\r\n 1 在HTML或SGML文档中，用于指明有字符存在（特殊字符）的默认符号。 \n \n2 在电子制表程序中,用于在描述单元格相互关系的公式中插入文本的操作符。 \n \n3 该字符还有“AND”的意思 \n \n5 &还有“联合”的意思。比如“A&B”公司，就是“A”和“B”两间公司合并起来的。  \n \n6 在某些电脑语言，如java中，表示按位进行“或”运算。 \n \n7 英文拼写：ampersand \n \n8 高级语言中的取地址符，如：“int a=0;int *p;*p=&a;”，意为取变量a的地址给指针p。 \n \n在以上的意义中，以第3和第5项的用法最为普遍 \r\n详细解释：\r\n \r\n相关词语：\r\n\r\n\t\t\r\n\t",
+    "strokes": 0,
+    "html": "<td id=\"20530518\" class=\"font_18\">\r\n<b><span class=\"table4\"><font color=\"#800000\">基本解释</font></span></b>：\r\n<hr class=\"hr1\">\r\n 1 在HTML或SGML文档中，用于指明有字符存在（特殊字符）的默认符号。 <br>\n <br>\n2 在电子制表程序中,用于在描述单元格相互关系的公式中插入文本的操作符。 <br>\n <br>\n3 该字符还有“AND”的意思 <br>\n <br>\n5 &amp;还有“联合”的意思。比如“A&amp;B”公司，就是“A”和“B”两间公司合并起来的。  <br>\n <br>\n6 在某些电脑语言，如java中，表示按位进行“或”运算。 <br>\n <br>\n7 英文拼写：ampersand <br>\n <br>\n8 高级语言中的取地址符，如：“int a=0;int *p;*p=&amp;a;”，意为取变量a的地址给指针p。 <br>\n <br>\n在以上的意义中，以第3和第5项的用法最为普遍 \r\n<br><br>\r\n\r\n<b><span class=\"table4\"><font color=\"#800000\">详细解释</font></span></b>：\r\n<hr class=\"hr1\">\r\n \r\n<br>\r\n<br>\r\n<b><span class=\"table4\"><font color=\"#800000\">相关词语</font></span></b>：\r\n<hr class=\"hr1\">\r\n<table border=\"0\" width=\"100%\" cellspacing=\"1\" id=\"30281\">\r\n\r\n\t\t\r\n\t</table>\r\n\r\n</td>",
+    "pinyin2": [ "" ],
+    "radical": " "
   }
 ]
